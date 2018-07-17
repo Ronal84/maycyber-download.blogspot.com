@@ -25,7 +25,7 @@ if(x=="1"){xxx="avp.html"}
 if(x=="2"){xxx="puisi-jendral-gatot-panglima-tni.html"}
 if(x=="3"){xxx="suami-pintu-syurga-di-rumah.html"}
 if(x=="4"){xxx="harta-tidak-dibawa-mati-siapa-bilang.html"}
-if(x=="5"){xxx="waw-darah-ajaibbb"}a_to_ve[i].href="https://maycyber-download-safelink.blogspot.com/2017/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="waw-darah-ajaibbb"}a_to_ve[i].href="https://maycyber-download-safelink.blogspot.com/2018/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
